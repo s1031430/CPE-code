@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>   //https://uva.onlinejudge.org/external/15/1585.html
 #include<cstring>
 using namespace std;
 int score(string);
